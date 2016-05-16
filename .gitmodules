@@ -1,0 +1,6 @@
+[submodule "FirstHalf"]
+	path = FirstHalf
+	url = https://github.com/everdark/rbasic.git
+[submodule "SecondHalf"]
+	path = SecondHalf
+	url = https://github.com/mansunkuo/BeyondBasicR.git
